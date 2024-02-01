@@ -1,5 +1,5 @@
 # Tankerkoenig-Laufschrift
-Laufschrift der Spritpreiseder Umgebung
+Laufschrift der Spritpreise der Umgebung
 
 hier soll ein kleines Projekt entstehen, au dem die Spritpreise der umliegenden Tankstellen auf einem Matrixdisplay mit MAX7219 Chip angezeigt werden.
 
